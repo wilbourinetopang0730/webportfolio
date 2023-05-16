@@ -1,0 +1,16 @@
+/* CSS Reset */
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	font-family: "Roboto Condensed";
+}
+
+#landing-letter {
+	font-size: 512px;
+	font-family: "Pacifico";
+}
+
+#nav-wt {
+	font-family: "Pacifico";
+}
